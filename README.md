@@ -37,7 +37,7 @@ SMHI warnings API ─┘                        │
 ## Setup
 
 ```bash
-git clone <your-repo-url> svar && cd svar
+git clone https://github.com/weareleon/svar svar && cd svar
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
